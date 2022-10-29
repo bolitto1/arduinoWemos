@@ -3,7 +3,7 @@
 
 // Network SSID
 const char* ssid = "MAURO";
-const char* password = "R0ci@2021";
+const char* password = "R0ci02021";
 //OBLIGADO EL LINK DEBE IR IP DEL SERVIDOR
 String Link = "http://192.168.0.101/pr1/datos.php";
 const int ledv = 7;
